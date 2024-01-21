@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Gusain
-- 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React & Nodejs
+- 👀 I’m interested in Full Stack Development
+- 🌱 React Wizard
 - 📫 Reach me at https://www.linkedin.com/in/anuj-gusain-108/
 
 <!---
